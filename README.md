@@ -1,5 +1,5 @@
 # Gestion-d-h-tel
-## Login page for authenticate
+## Login page 
 ![H1](https://user-images.githubusercontent.com/55992425/102253604-d4a77f80-3f07-11eb-8a2f-f198412f4df0.PNG)
 ## Customer page that manages customers
 ![Client](https://user-images.githubusercontent.com/55992425/102253621-dbce8d80-3f07-11eb-9dd7-3e50051fcb23.PNG)
